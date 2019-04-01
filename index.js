@@ -1,5 +1,5 @@
 import React from 'react';
-import { Audio, Video } from 'expo';
+import { Audio, Video } from 'expo-av';
 import {
   View,
   Dimensions,
