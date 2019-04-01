@@ -1,6 +1,7 @@
 import React from 'react';
 import { ActivityIndicator } from 'react-native';
-import { Foundation, MaterialIcons } from '@expo/vector-icons';
+import MaterialIcons from 'react-native-vector-icons/MaterialIcons'
+import Foundation from 'react-native-vector-icons/Foundation'
 
 const ICON_COLOR = '#FFFFFF';
 const CENTER_ICON_SIZE = 36;
